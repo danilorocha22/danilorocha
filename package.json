@@ -2,7 +2,7 @@
   "name": "danilorocha",
   "version": "1.0.0",
   "description": "Diretório de portfolio",
-  "main": "index.js",
+  "main": "index.html",
   "scripts": {
     "dev": "next dev"
   },
